@@ -5,7 +5,7 @@ namespace amin101\ResponsiveFileManager;
 
 use Illuminate\Support\ServiceProvider;
 
-class FileMangerServiceProvider extends ServiceProvider
+class FileManagerServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
