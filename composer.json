@@ -1,5 +1,5 @@
 {
-    "name": "amin101/laravel-responsivefilemanager",
+    "name": "harimayco/laravel-responsivefilemanager",
     "description": "integrating responsive file manager with laravel",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
 	},
   "autoload": {
     "psr-4": {
-      "amin101\\ResponsiveFileManager\\": "src/"
+      "harimayco\\ResponsiveFileManager\\": "src/"
     }
   }
 }
